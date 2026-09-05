@@ -1,0 +1,17 @@
+# Generado por colcon — no se versiona, se regenera con `colcon build`
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# Bags grabados durante las pruebas (módulo 04)
+*bag*/
+rosbag2_*/
+
+# Editor / OS
+.vscode/
+*.swp
+.DS_Store
