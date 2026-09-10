@@ -28,7 +28,6 @@ con ejercicios prácticos y retos técnicos, todo ejecutado dentro de este mismo
 | 06 | [Tutoriales cliente (Python)](tutorial/06-tutoriales-cliente-python/README.md) | Publisher/Subscriber, Service/Client, mensajes e interfaces custom, parámetros en una clase — con código real probado |
 | 07 | [Retos técnicos](tutorial/07-retos/README.md) | 4 retos sin solución dada + 1 mini-proyecto integrador guiado con código |
 
-✅ Los 8 módulos (00-07) ya están completos.
 
 ## Cómo usar este tutorial
 
